@@ -85,7 +85,7 @@ dt {
   font-weight: bold; }
 
 ul li {
-  list-style-image: url("../img/bullet.png"); }
+  list-style-image: url("https://github.com/GodsFavAngxl/web-prog-project/blob/master/assets/img/bullet.png?raw=true"); }
 
 blockquote {
   color: #aaa;
@@ -157,7 +157,7 @@ hr {
 
 .btn-github .icon {
   opacity: 0.6;
-  background: url("../img/neon music.png") 0 0 no-repeat; }
+  background: url("https://github.com/GodsFavAngxl/web-prog-project/blob/master/assets/img/neon%20music.png?raw=true") 0 0 no-repeat; }
 
 .box{
   max-width: 630px;
@@ -178,7 +178,7 @@ hr {
   border-radius: 50%;}
 }
 .facebook{
-  background: url("../img/facebook.png");
+  background: url("https://github.com/GodsFavAngxl/web-prog-project/blob/master/assets/img/facebook.png?raw=true");
 }
 .insta{
   background: url("../img/insta.png");
